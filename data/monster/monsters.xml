@@ -2,6 +2,17 @@
 <monsters>
 	<!-- Trainers -->
 	<monster name="Training Monk" file="customs/Training Monk.xml" />
+	
+	<!-- New monsters -->
+	<monster name="Frost Flower Asura" file="customs/Frost Flower Asura.xml" />
+	<monster name="Falcon Paladin" file="customs/Falcon Paladin.xml" />
+	<monster name="Falcon Knight" file="customs/Falcon Knight.xml" />
+	<monster name="Grand Canon Dominus" file="customs/Grand Canon Dominus.xml" />
+	<monster name="Grand Chaplin Gaunder" file="customs/Grand Chaplin Gaunder.xml" />
+	<monster name="Grand Commander Soeren" file="customs/Grand Commander Soeren.xml" />
+	<monster name="True Dawnfire Asura" file="customs/True Dawnfire Asura.xml" />
+	<monster name="True Frost Flower Asura" file="customs/True Frost Flower Asura.xml" />
+	<monster name="True Midnight Asura" file="customs/True Midnight Asura.xml" />
 
 	<!-- The First Dragon -->
 	<monster name="Tazhadur" file="places/FirstDragon/Tazhadur.xml" />
